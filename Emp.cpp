@@ -15,7 +15,7 @@ void addEmployee(vector<Employee> &employees)
     Employee newEmployee;
 
     cout << "Enter employee name: ";
-    cin.ignore(); // To clear the input buffer
+    cin.ignore(); // to clear the input buffer
     getline(cin, newEmployee.name);
 
     cout << "Enter employee age: ";
