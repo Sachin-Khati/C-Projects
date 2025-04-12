@@ -10,7 +10,7 @@ private:
 
 public:
     ParkingSystem(int cap)
-    { // constructor
+    { // Constructor
         capacity = cap;
         occupied = 0;
     }
