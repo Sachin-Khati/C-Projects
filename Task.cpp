@@ -5,7 +5,7 @@
 
 using namespace std;
 
-// Define a structure to represent a task
+// Define a structure to represent a Task
 struct Task
 {
     string name;
