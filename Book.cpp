@@ -1,3 +1,4 @@
+
 #include <iostream>
 #include <vector>
 #include <string>
@@ -21,7 +22,7 @@ struct Member
     vector<Book *> borrowedBooks;
 };
 
-// Function to add a new book to the library
+// Function to add a new book to thee library
 void addBook(vector<Book> &library)
 {
     Book newBook;
